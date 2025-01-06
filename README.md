@@ -47,9 +47,4 @@
 
 ![image](https://github.com/user-attachments/assets/35f3e309-df76-47b9-b026-5f62137ade29)
 
----
-
-
-## 🏆 Badges:
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2022-blueviolet?style=for-the-badge)
 

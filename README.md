@@ -38,6 +38,10 @@
 ---
 
 ## 📅 Contributions Calendar:
+
+![Followers](https://img.shields.io/github/followers/tgKishikaisei?style=social)
+![Stars](https://img.shields.io/github/stars/tgKishikaisei?style=social)
+
 ![image](https://github.com/user-attachments/assets/35f3e309-df76-47b9-b026-5f62137ade29)
 
 ---

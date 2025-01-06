@@ -44,6 +44,10 @@
 ![Followers](https://img.shields.io/github/followers/tgKishikaisei?style=social)
 ![Stars](https://img.shields.io/github/stars/tgKishikaisei?style=social)
 
+#### Contributions calendar
+- **Commits streaks**: Best streak 5 days  
+- **Commits per day**: Highest in a day at 13, average ~0.77
+
 ![image](https://github.com/user-attachments/assets/35f3e309-df76-47b9-b026-5f62137ade29)
 
 ---

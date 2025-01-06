@@ -38,7 +38,7 @@
 ---
 
 ## 📅 Contributions Calendar:
-![GitHub Streak](https://streak-stats.demolab.com/?usertgKishikaisei&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tgKishikaisei&theme=radical)
 
 ---
 

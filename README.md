@@ -34,12 +34,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgKishikaisei&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tgKishikaisei&layout=compact&theme=radical)
-  
 
 ---
-📊Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgKishikaisei&show_icons=true&theme=radical)
+## 📅 Contributions Calendar:
+[(https://profile-summary-for-github.com/user/tgKishikaisei)](https://github.com/ВАШ_ЮЗЕРНЕЙМ)
+
+---
 
 
 ## 🏆 Badges:

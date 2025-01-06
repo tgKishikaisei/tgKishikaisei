@@ -38,7 +38,7 @@
 ---
 
 ## 📅 Contributions Calendar:
-
+![GitHub Contributions](https://github-contributions-api.deno.dev/tgKishikaisei.svg)
 
 ---
 

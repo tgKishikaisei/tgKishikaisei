@@ -38,7 +38,7 @@
 ---
 
 ## 📅 Contributions Calendar:
-[(https://profile-summary-for-github.com/user/tgKishikaisei)](https://github.com/ВАШ_ЮЗЕРНЕЙМ)
+[(https://profile-summary-for-github.com/user/tgKishikaisei)](https://github.com/tgKishikaisei)
 
 ---
 

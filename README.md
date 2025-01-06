@@ -1,6 +1,6 @@
 # Hi, I'm Behruz! 👋 Welcome to my GitHub Profile!
 
-<img src="https://raw.githubusercontent.com/<tgKishikaisei>/<repo>/<branch>/path/to/<img src="https://raw.githubusercontent.com/<username>/<repo>/<branch>/path/to/image.gif" width="300"/>" width="300"/>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tgKishikaisei&color=blue&style=flat-square)
 

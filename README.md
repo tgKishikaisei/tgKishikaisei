@@ -37,6 +37,10 @@
   
 
 ---
+📊Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tgKishikaisei&show_icons=true&theme=radical)
+
 
 ## 🏆 Badges:
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2022-blueviolet?style=for-the-badge)

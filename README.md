@@ -7,7 +7,7 @@
 ## 🚀 About Project
 
 - 🔭 I’m currently working on [tgKishikaisei]([(https://github.com/tgKishikaisei/tgKishikaisei/tree/main)]).
-- 📫 Contact me: [Telegram](https://t.me/@BehruzAvezmatov).
+- 📫 Contact me: [Telegram](https://t.me/BehruzAvezmatov).
 - ⚡ Always ready to help and learn new things!
 
 ---

@@ -18,12 +18,37 @@ within a day.
 
 ## What I do
 
-|                          |                                                                |
-| ------------------------ | -------------------------------------------------------------- |
-| 🤖 **Telegram bots**     | catalogs, carts, payments, bookings, admin alerts              |
-| ⚙️ **APIs and backends** | FastAPI, PostgreSQL, auth and roles, queues for long jobs      |
-| 🌐 **Websites**          | landing pages and sites with their own backend and admin panel |
-| 🚀 **Deployment**        | Docker, nginx, backups, one-command deploy scripts             |
+**Pipelines where data must not leave the server.** In SafeFlow I mask personal
+data before a language model ever sees it: Presidio finds it, RabbitMQ carries
+the work, a local model answers through Ollama, Redis keeps the state. Nothing
+leaves the perimeter, and every step can be verified on its own.
+
+**Video and image analysis.** Bubble Tracker detects bubbles on video with a
+six-stage frame preprocessing; the PPE monitor flags whether protective gear is
+worn. OpenCV and NumPy, tuned until it holds on real footage and not only on a
+demo clip.
+
+**Services with roles and a trail you can audit.** The backend of this site:
+login with TOTP two-factor, refresh tokens that die when reused, an append-only
+audit log the application itself cannot rewrite, rate limits, an admin page that
+answers a plain 404 to everyone without the key, and a decoy that reports
+scanners instead of feeding them.
+
+**APIs and backends.** FastAPI and PostgreSQL: schema and migrations first,
+permission checks on every endpoint, queues for the long jobs, OpenAPI as the
+contract, tests on what breaks quietly.
+
+**Telegram bots.** Catalogs, carts, payments, bookings, alerts to the owner. The
+bot of this site takes requests, quotes prices and collects reviews — and it
+reads the same data as the website, so the two cannot start telling different
+things.
+
+**Websites.** Landing pages and sites with their own backend and admin panel:
+two languages, motion, WebGL scenes, and accessibility at 95+ in Lighthouse on
+every build, checked in CI rather than promised.
+
+**Deployment and keeping it alive.** Docker Compose, nginx, TLS, fail2ban,
+backups and CI on every commit — one command to deploy, one to roll back.
 
 ## Stack
 

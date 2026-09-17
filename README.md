@@ -220,6 +220,6 @@ The whole process, step by step: [kietos.me/process](https://kietos.me/process)
 ---
 
 <p align="center">
-  <b>По-русски:</b> фулстек-разработчик из Ташкента — Telegram-боты, API и сайты под ключ.<br>
+  фулстек-разработчик из Ташкента — Telegram-боты, API и сайты под ключ.<br>
   Цены, калькулятор стоимости и заявка — <a href="https://kietos.me">kietos.me</a>
 </p>

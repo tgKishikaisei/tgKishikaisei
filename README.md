@@ -199,24 +199,6 @@ flowchart LR
 | [Platejnaya_sistema_FastAPI](https://github.com/tgKishikaisei/Platejnaya_sistema_FastAPI) | Payment service: accounts, transfers, operation history                   | FastAPI · SQLAlchemy        |
 | [site_shop_django](https://github.com/tgKishikaisei/site_shop_django)                     | Django shop: catalog, cart, admin panel                                   | Django · Bootstrap          |
 
-## kietos.me in numbers
-
-| 12 pages          | 600+ automated tests    | 4 containers                       | 1 command to deploy         |
-| ----------------- | ----------------------- | ---------------------------------- | --------------------------- |
-| two languages, ru/en | unit, e2e and backend | site API, bot, database, analytics | build, upload, swap, or roll back |
-
-<details>
-<summary><b>How I work</b></summary>
-
-- Scope agreed in writing before the start: what is included and what is not.
-- Tests on what breaks quietly; linters and checks on every commit.
-- A README someone else can deploy from — the project is not a dependency on me.
-- Two weeks of questions after handover.
-
-The whole process, step by step: [kietos.me/process](https://kietos.me/process)
-
-</details>
-
 ---
 
 <p align="center">
